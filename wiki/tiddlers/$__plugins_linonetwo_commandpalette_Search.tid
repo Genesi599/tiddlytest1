@@ -1,0 +1,9 @@
+command-palette-caption: {{$:/language/Buttons/AdvancedSearch/Caption}}
+command-palette-hint: {{$:/language/Buttons/AdvancedSearch/Hint}}
+command-palette-name: Search
+command-palette-type: prompt
+created: 20231125131635211
+modified: 20231125131635211
+tags: $:/tags/CommandPaletteCommand
+title: $:/plugins/linonetwo/commandpalette/Search
+type: text/vnd.tiddlywiki
